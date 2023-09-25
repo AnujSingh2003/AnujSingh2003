@@ -9,9 +9,9 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujsingh2003" alt="anujsingh2003" /></a> </p>
 <br>
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **OpenCV**
 
-- 💬 Ask me about **react,node,js6,CSS,C,C++**
+- 💬 Ask me about **react,node,js6,CSS,C,C++,python**
 
 - 📫 How to reach me **anujsinghdgp123@gmail.com**
 
