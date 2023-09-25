@@ -7,7 +7,7 @@
 
 <p align="left"margin-top="23px"> <img src="https://komarev.com/ghpvc/?username=anujsingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="anujsingh2003" /> </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujsingh2003" alt="anujsingh2003" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujsingh2003" alt="" /></a> </p>
 <br>
 - 🌱 I’m currently learning **OpenCV**
 
