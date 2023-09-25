@@ -2,7 +2,6 @@
 ![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)
 
 <h1 align="center">Hi 👋, I'm Anuj Singh</h1>
-![final2](https://user-images.githubusercontent.com/73403577/155861545-fcc4d226-0889-4432-8d9d-13ad8eb45fdb.jpeg)
 <h3 align="center">Hey there, I'm Anuj! I'm a student at SRMIST pursuing Computer Science and Engineering. I'm passionate about Web development, Object detection and creating solutions through websites for businesses and individuals in need.I’m interested in Machine Learning ,Web Development.</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFjazUzaTI3MXhuanNxc2R6cWpjYzRxaXFzYTd1d2RkMHR2d2wyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
